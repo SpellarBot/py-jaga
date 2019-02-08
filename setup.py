@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-jagadeesh-vinnakota",
+    name="py-vinnakota",
     version="0.0.2",
     author="Jagadeesh Vinnakota",
     author_email="jagadeesh.vinnakota93@gmail.com",
