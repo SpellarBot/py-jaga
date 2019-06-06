@@ -1,5 +1,5 @@
 # py-jaga
-Basic python pckage which can be installed via pip
+Basic python package which can be installed via pip
 # Example Package
 
 This is a simple example package. You can use
